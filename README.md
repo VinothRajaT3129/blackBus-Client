@@ -41,8 +41,8 @@ To run the frontend locally, follow the steps below.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/bigbus-frontend.git
-   cd bigbus-frontend
+   git clone https://github.com/yourusername/blackbus-frontend.git
+   cd blackbus-frontend
    ```
 
 2. **Install dependencies:**
@@ -138,4 +138,4 @@ This project is licensed under the MIT License.
 
 ---
 
-Now you're ready to start working on the frontend of BigBus! If you have any questions or need further assistance, feel free to ask.
+Now you're ready to start working on the frontend of BlackBus! If you have any questions or need further assistance, feel free to ask.
