@@ -1,5 +1,5 @@
 
-# BigBus - Frontend
+# BlackBus - Frontend
 
 BigBus is a bus ticket booking system built using React.js, Vite, and Material UI. The frontend allows users to search for buses, book tickets, and for administrators to manage bus listings and view ticket details.
 
