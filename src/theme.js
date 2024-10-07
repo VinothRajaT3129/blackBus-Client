@@ -1,25 +1,24 @@
-// src/theme/theme.js
 import { createTheme } from "@mui/material/styles";
 
 const theme = createTheme({
   palette: {
     primary: {
-      main: "#3f51b5", // Change to your desired primary color
+      main: "#3f51b5",
     },
     secondary: {
-      main: "#f50057", // Change to your desired secondary color
+      main: "#f50057",
     },
     background: {
-      default: "#f5f5f5", // Default background color
-      paper: "#ffffff", // Paper background color
+      default: "#f5f5f5",
+      paper: "#ffffff",
     },
     text: {
-      primary: "#333333", // Primary text color
-      secondary: "#666666", // Secondary text color
+      primary: "#333333",
+      secondary: "#666666",
     },
   },
   typography: {
-    fontFamily: "Roboto, sans-serif", // Change to your desired font family
+    fontFamily: "Roboto, sans-serif",
     h1: {
       fontSize: "2rem",
       fontWeight: "600",
@@ -34,7 +33,7 @@ const theme = createTheme({
     },
     body1: {
       fontSize: "1rem",
-      color: "#444444", // Change body text color
+      color: "#444444",
     },
   },
 });
