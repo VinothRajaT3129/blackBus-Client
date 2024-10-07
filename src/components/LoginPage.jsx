@@ -44,7 +44,7 @@ const LoginPage = () => {
         }}
       >
         <Typography variant="h4" component="h1" gutterBottom align="center">
-          Welcome to BigBus.com
+          Welcome to BlackBus.com
         </Typography>
         <Typography variant="h5" component="h2" gutterBottom align="center">
           Login
